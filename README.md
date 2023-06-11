@@ -17,6 +17,8 @@
 
   ## Usage
   Visit the link above and start writing! Your input will be saved automatically and persist between sessions. You can also install it as a desktop app by clicking the "Install!" button in the top left corner and accepting the prompt.
+  
+  ![image](https://github.com/Norboro1/Text-Editor-PWA/assets/116109240/c2bb232b-ff5e-4558-88c1-76c7a4242fc8)
 
   ## License
   This project is licensed under the MIT license.
