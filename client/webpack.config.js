@@ -21,8 +21,7 @@ module.exports = () => {
     plugins: [
       new HtmlWebpackPlugin({
         template: './index.html',
-        filename: 'index.html',
-        chunks: ['main'],
+        title: 'Notes',
       }),
 
       new InjectManifest({
@@ -48,6 +47,7 @@ module.exports = () => {
           },
         ],
       }),
+      
     ],
 
     module: {
